@@ -299,7 +299,14 @@ img{
     padding: 30px 50px;
   }
 
-  .stricky{
-    position:fixed;
+.stricky{
+    position:sticky;
     top:10px;
   }
+
+.body {
+    position: sticky;
+    top: 30px;
+
+  }
+     
